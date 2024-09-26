@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enkel HTML-side</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #4682b4;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #fff;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #4682b4;
+            color: #fff;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #e0ffff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Velkommen til Energiordboka!</h1>
+    <p>Ordboka brukes på eget ansvar - kildene er oppgitt til høyre i tabellen</p>
+    
+    <table>
+        <tr>
+            <th>Begrep</th>
+            <th>Beskrivelse</th>
+            <th>Kilde</th>
+        </tr>
+        <tr>
+            <td>Ola Nordmann</td>
+            <td>30</td>
+            <td>Oslo</td>
+        </tr>
+        <tr>
+            <td>Kari Nordmann</td>
+            <td>25</td>
+            <td>Bergen</td>
+        </tr>
+        <tr>
+            <td>Per Hansen</td>
+            <td>40</td>
+            <td>Trondheim</td>
+        </tr>
+    </table>
+</body>
+</html>
