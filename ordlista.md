@@ -1,5 +1,4 @@
 ---
-title: "En samling begreper og TBF-er fra energi, strøm og nettsektoren"
 subtitle: En liten overskrift til å introdusere
 date: 2024-09-27
 categories: [Nett, Energi]
@@ -8,7 +7,7 @@ author: [andreas]
 
 
 ## Disclaimer
-Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibransjen. 
+Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibransjen. Se readme.md for kilder. 
 
 ### Ordliste
 
