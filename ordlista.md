@@ -1,12 +1,10 @@
-![image](https://github.com/user-attachments/assets/83b4afca-4184-42b9-9eb1-9f2ced50eae3)---
+---
 subtitle: En liten overskrift til å introdusere
 date: 2024-09-27
 categories: [Nett, Energi]
 author: [andreas]
 ---
 
-
-## Disclaimer
 Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibransjen. Se readme.md for kilder. 
 
 ### Ordliste
@@ -314,4 +312,3 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Watt	|	Enhet for elektrisk effekt. 1 W er den effekt som utvikles i en leder hvor det går strøm på 1 ampere og hvor spenningsfallet over lederen er 1 volt	|	Elordboken	|
 |	Watt 	|	Måleenheten for elektrisk effekt. Effekten er et resultat av tilgjengelig spenning, kombinert med den strømmen som blir overført. Det kan regnes ut slik: 16 ampere x 230 volt =3680 watt 	|	Elvia	|
 |	WSR 	|	Weekly Settlement Report. 	|	Statnett	|
-
