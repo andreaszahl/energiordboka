@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/83b4afca-4184-42b9-9eb1-9f2ced50eae3)---
 subtitle: En liten overskrift til å introdusere
 date: 2024-09-27
 categories: [Nett, Energi]
@@ -29,7 +29,10 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Assosiert gass	|	Naturgass som er blandet med oljen i et oljefelt.	|	Elordboken	|
 |	ATC 	|	Available Transfer Capacity.	|	Statnett	|
 |	AutoBal 	|	Automatisert Balansering.	|	Statnett	|
+|	Avgiftsprofil	|	Avgifter tilknyttet et avregningspunkt.	|	Elhub IM	|
+|	Avregningspunkt	|	Laveste enhet for registrering av kraftleverandør. Markedsprosesser utføres i hovedsak på Avregningspunkter.	|	Elhub IM	|
 |	Balanseansvarlig	|	Kjøpere og selgere av kraft på de fysiske kraftmarkedene har ansvar for sin egen kraftbalanse. Det vil si at den balanseansvarlige bedriften har økonomisk ansvar for å bevare balansen mellom forbruk og produksjon når det brukes mer/mindre enn det de inngåtte kontraktene dekker.	|	Elordboken	|
+|	Balanseansvarligkontrakt	|	Kontrakt som spesifiserer hvilken balanseansvarlig som stiller finansiell sikkerhet og har balanseansvar for en kraftleverandør i et nettområde	|	Elhub IM	|
 |	Balanseavregning	|	En planlagt sammenstilling av planlagt forbruk, produksjon og bilateral handel og virkelig forbruk og produksjon for alle selskap som handler med el-kraft i engrosmarkedet i Norge. Differansen som oppstår mellom planlagt og virkelig produksjon og forbruk, er regulerkraft. Balanseavregning gir kjøpere og selgere adgang til alle overføringsnett og åpner dermed for frihandel av el-kraft.	|	Elordboken	|
 |	Balansekraft	|	Avviket mellom planlagt og virkelig kraftutveksling mellom Norge og Sverige («Reguleringskraft over grensen»). Uttrykket brukes i Sverige på samme måte som regulerkraft i Norge. (Se også balanseavregning og regulerkraft- ordningen.)	|	Elordboken	|
 |	Balansekraft 	|	Avvik mellom målt (faktisk) flyt og planlagt handelsflyt. Balansekraft = målt flyt – (Elspot flyt + Elbas flyt).	|	Statnett	|
@@ -106,6 +109,7 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Gasskraftverk	|	Varmekraftverk som bruker gass som brensel.	|	Elordboken	|
 |	GCT 	|	Gate Closure Time. Budfrist/lukketid.	|	Statnett	|
 |	Generator	|	Roterende maskin som omdanner mekanisk energi til elektrisk energi.	|	Elordboken	|
+|	Geografisk posisjon	|	Koordinatene til målepunktet	|	Elhub IM	|
 |	Gjennomfakturering 	|	Mange strømleverandører har en avtale om gjennomfakturering, som betyr at du mottar en samlet faktura fra strømleverandøren din for strøm og nettleie. 	|	Elvia	|
 |	GLN 	|	Global Location Number, 70 tilsvarer Norge.	|	Statnett	|
 |	Grunnlast	|	Den effekten som det er behov for størsteparten av året.	|	Elordboken	|
@@ -126,6 +130,8 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Inntaksledning/Stigeledning	|	Strømkabel fra tilknytningspunktet og videre inn i huseiers installasjon og sikringsskap. Denne kabelen regnes som kundes anlegg, da skillet mellom Elvia og kunde sitter i tilknytningspunktet.	|	Elvia	|
 |	Inntektsramme	|	Inntektsramme er tillatt inntekt for monopolvirksomhet. Norges Vassdrags- og energidirektorat (NVE) setter en øvre grense for hvor store inntekter nettselskaper kan ha på sin monopolbaserte virksomhet.	|	Elordboken	|
 |	Installasjon 	|	Alt det elektriske som befinner seg bak tilknytningspunktet. Du har selv ansvar for din egen installasjon. 	|	Elvia	|
+|	Intervallvolum (måleverdi)	|	Forbruket av energi innen et tidsintervall	|	Elhub IM	|
+|	Intervallvolum serie (måleverdi)	|	Tidsserie med intervallvolum	|	Elhub IM	|
 |	ISO	|	Independent System Operator. Systemansvarlig selskap som ikke selv eier nettet.	|	Elordboken	|
 |	ISO 	|	Independant System Operator.	|	Statnett	|
 |	Isolator	|	Innretning som benyttes til å skille elektriske ledninger fra høyspentmaster o.l. Uten isolatorer ville strømmen blitt ledet ut i mastene. Isolatoren består av stoff med stor elektrisk motstand.	|	Elordboken	|
@@ -134,16 +140,20 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Jordslutning 	|	Jordslutning er en betegnelse på en feil som kan føre til brudd på høyspentnettet (bryterfall). Det betyr at strømmen går fra fase til jord. Dette oppstår når et tre faller på linja, men kun er i kontakt med en av fasene. Ettersom treet er strømførende oppstår det kontakt mellom fase og jord, det kan føre til en kortslutning på nettet (bryterfall). 	|	Elvia	|
 |	Kabel 	|	Elektrisk kabel som leder strøm. Ofte bygget opp av to eller flere ledere i metall omgitt av isolasjon.	|	Elvia	|
 |	Kanal	|	En forbindelse som bel bygget for å oppfylle en kraftutvekslingsavtale eller en bestemt avtale om kjøp av elektrisk kraft.	|	Elordboken	|
+|	Kanal	|	Spesifikasjon av energiproduktene som registreres i et målepunkt.	|	Elhub IM	|
 |	KII 	|	Kraftintensiv Industri.	|	Statnett	|
 |	Kilovolt 	|	kV er symbolet for kilovolt, som er det samme som 1000 volt. 	|	Elvia	|
 |	Konsekvensutredning	|	Dokument som må utarbeides iht til Plan- og bygningsloven i store utbyggiongssaker. Beskriver det aktuelle utbyggingsproesjektet og konsekvensene av det.	|	Elordboken	|
 |	Konsesjonsavgift	|	Konsesjonsavgift er i grove trekk en slags kompensasjon som kraftselskapene betaler til kommuner med kraft- og damanlegg og vannfall til kraftbruk.	|	Elordboken	|
 |	Konsesjonskraft	|	Kraft som leveres i henhold til konsesjonsbetingelser i medhold av lov.	|	Elordboken	|
+|	Kontaktinformasjon	|	Kontaktinformasjon til sluttbruker.	|	Elhub IM	|
+|	Kontrakt	|	Felles informasjon om kontrakter.	|	Elhub IM	|
 |	Kortslutningsvern - KV	|	Vern som sitter ute i nettet og i installasjoner for å beskytte mot korslutningsstrømmer. Brukes blant annet til å sikre stikkledninger mot kortslutning og brann.	|	Elvia	|
 |	Kraftbalanse	|	Beregning for en viss tidsperiode av balanse mellom krafttilgang og kraftbehov.	|	Elordboken	|
 |	Kraftbørs	|	Kraftbørs, eller elbørs, er en markedsplass for organisert omsetning av elektrisk kraft. Den nordiske kraftbørsen er lagt til Nord Pool ASA på Lysaker, som eies med en halvdel hver av Statnett og Svenska Kraftnätt. Kraftbørsen er et «torg» der kraftprodusentene selger strømmen sin til kraftleverandørene. Her finnes prisen pr. time, pr. dag, uke, måned og påfølgende år. Kraftbørsen fungerer slik at den som tilbyr lavest pris, får selge først. Etterpå selger kraftleverandørene strømmen videre til deg. Se www.nordpool.com.	|	Elordboken	|
 |	Kraftintensiv industri	|	Omfatter industri som produserer kjemiske råvarer, jern, stål, ferrolegeringer og ikke jernholdige metaller.	|	Elordboken	|
 |	Kraftleverandør	|	En rolle som kjøper og selger den totale energien på vegne av en sluttbruker.  (Metering Grid Area)) er et fysisk område der forbruk, produksjon og utveksling kan måles	|	Elhub	|
+|	Kraftleveransekontrakt	|	Kraftleveranser ivaretas gjennom denne klassen. I tillegg til å omfatte de nødvendige knytninger til kraftleverandør, målepunkt og sluttbruker, er det en forutsetning i markedet at det foreligger en nettilknytningskontrakt forut for at det kan inngås en kraftleveransekontrakt.	|	Elhub IM	|
 |	Kraftlinje	|	Overføringslinje for elektrisk kraft. Spenningen i det norske sentralnettet varierer fra 132 til 420 kV.	|	Elordboken	|
 |	Kraftstasjon	|	Produksjonsstedet for elektrisk energi. Stedet hvor turbin og generator er plassert.	|	Elordboken	|
 |	Kraftutveksling	|	Handel med elektrisk kraft over landegrensene. Nord Pool organiserer den kortsiktige handelen. For kontrakter lengre enn seks måneder kreves særskilt konsesjon. For eksportavtaler av kortere varighet enn fem år er norske produsenter gitt kvoter på til sammen 5 TWh. Det er ikke fri import av elektrisk kraft.	|	Elordboken	|
@@ -175,20 +185,29 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Motkjøp (counter trade)	|	Systemansvarlig nettselskap kjøper på overskuddssiden av en flaksehals og selger på underskuddssiden, slik at markedets omsetningsbehov blir tilfredsstilt samtidig som den fysiske kapasiteten i nettet utnyttes fullt ut.	|	Elordboken	|
 |	MSCONS 	|	Metered Services Consumption,  standarisert meldingsformat i elindustrien for måledata basert på standard formated EDIFACT.	|	Statnett	|
 |	MTU 	|	Market Time Unit.	|	Statnett	|
+|	Målepunkt	|	Et punkt der energiprodukter måles. Punktet kan samsvare med fysisk måling eller være et beregnet resultat.	|	Elhub IM	|
 |	Målepunktadministrator	|	En rolle ansvarlig for en database over målepunkter, samt måleverdier, karakteristikker (attributter) og parter tilknyttet målepunktene	|	Elhub	|
+|	Målepunktadresse	|	Adresse til målepunktet.	|	Elhub IM	|
 |	Målepunkt-ID 	|	Alle elektriske anlegg i Norge har et unikt ID-nummer som kalles målepunkt-ID. Dette beskriver det elektriske anlegget strømmåleren er knyttet til. Målepunkt-ID finner du på din faktura eller ved å logge inn på Min side.	|	Elvia	|
+|	Måler	|	En fysisk enhet som måler energiprodukter.	|	Elhub IM	|
 |	Målermontør 	|	Elvia benytter eksterne selskap for å sette opp/bytte ut/plombere målere. Målermontøren gjør arbeidet med å montere måleren. 	|	Elvia	|
 |	Målernummer 	|	Målernummeret ditt står på strømmåleren din. Er du usikker på hva som er målernummeret ditt kan du gjerne sende oss et bilde av måleren.	|	Elvia	|
+|	Målerstand (måleverdi)	|	Verdien fra telleverket på en måler på et definert tidspunkt	|	Elhub IM	|
+|	Målerstand serie (måleverdi)	|	Serie med målerstander	|	Elhub IM	|
 |	Målertrafo 	|	Transformatoren sitter i tilknytning til måleren og transformerer ned strømmen slik at den kan måles. 	|	Elvia	|
 |	Målervern - MV	|	Kalles også hovedsikring. Om det kun er et anlegg på tilknytningspunktet er gjerne målervern likt overlastvern. 	|	Elvia	|
+|	Nabonettområde	|	Spesifikasjon av hvilke nettområder ett nettområde har utveksling med.	|	Elhub IM	|
 |	Naturgass	|	Samlebegrep for hydrokarbongass slik den forekommer naturlig. Den har en varierende sammensetning av metan, etan, propan og butan. Metan utgjør til vanlig minst 80 %. Begrepet naturgass brukes ofte litt feilaktig om den gassen vi sender til energimarkedet. Se salgsgass/eksportgass.	|	Elordboken	|
 |	NBM 	|	Nordic Balancing Model. 	|	Statnett	|
 |	NBS 	|	Nordic Balance Settlement, nordisk balanseavregning for Norge, Finland og Sverige.	|	Statnett	|
 |	Nettap 	|	Kort forklart er nettap elektriske tap i strømnettet. På grunn av motstand i strømledningene vil noe strøm gå tapt i form av varme mellom der strømmen blir produsert og der kunden forbruker den. Forskjellen mellom hvor mye energi som mates inn i nettet og hvor mye kundene tar ut av nettet utgjør nettapet. Les mer om nettap her.	|	Elvia	|
 |	Nettavregningsområde	|	Et nettavregningsområde (også kalt Nettområde eller MGA (Metering Grid Area)) er et fysisk område der forbruk, produksjon og utveksling kan måles. Nettavregningsområdet er avgrenset av målere for periodisk avlesning av inn- og utmating fra nettavregningsområdet, så kalte utveklingsmålepunkter.	|	Elhub	|
+|	Nettilknytningskontrakt	|	Et målepunkts nettilknytning og -leie er representert gjennom denne klassen, som utgjør en kobling mellom målepunkt, nettilknytningstilbyder og sluttbruker.	|	Elhub IM	|
 |	Nettilknytningstilbyder	|	Nettilknytningstilbyder (også kalt Nettselskap) En rolle ansvarlig for å gi tilgang til strømnettet og tilhørende bruk for forbruk eller produksjon til aktør koblet til og innenfor et nett.	|	Elhub	|
 |	Nettleie	|	Avgiften du må betale for drift og vedlikehold av strømledningene fram til huset ditt/boligen din. Nettleien kontrolleres av myndighetene og varierer noe fra selskap til selskap. Det er ikke mulig å endre nettselskap. I Norge er det bare bygd ett elnett fordi grisgrendt bebyggelse ville ha gjort det langt dyrere å bygge ut konkurrerende nett.	|	Elordboken	|
 |	Netto kraftforbruk	|	Kraftforbruk målt hos forbruker.	|	Elordboken	|
+|	Nettområde	|	Et område hvor uttak, innmating og utveksling av kraft med tilgrensede nettområder kan måles.	|	Elhub IM	|
+|	Nettområde autorisasjon	|	Spesifikasjon av hvem (måledatainnsamlere) som kan levere måleverdier i et nettområde.	|	Elhub IM	|
 |	NettOpp 	|	Datasystem for Nettavregning (Markedsoppgjør). Her kan man bl.a. finne måledata i grensesnitt mot inn	|	Statnett	|
 |	Nettstasjon 	|	Nettstasjoner transformerer spenningen ned fra høyspentnettet til 230V og 400V, og forsyner strøm videre ut til kundene på dette spenningsnivået. 	|	Elvia	|
 |	NettWeb 	|	Innrapportering av faste ledd.	|	Statnett	|
@@ -207,6 +226,9 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Overlastvern - OV	|	Størrelse på sikringen som begrenser uttaket av strøm fra fellesnettet. Beskytter nettet mot overbelastning. 	|	Elvia	|
 |	Overspenningsvern  - OVS	|	Et overspenningsvern beskytter elektriske installasjoner mot spenningsvariasjoner og overspenning ved å lede overspenning rett til jord. Det er blant annet krav til overspenningsvern ved nye installasjoner og ved montering av elbil-lader. 	|	Elvia	|
 |	Overstrøm 	|	Overstrøm er en betegnelse på en feil som kan føre til brudd på høyspentnettet (bryterfall). Det betyr rett og slett at strømmen går fra en fase til en annen, som medfører at kabel/linje kortslutter. Eksempelvis et tre som legger seg over høyspentlinja, det fører med seg strømmen fra en fase over til en annen fase, siden treet er strømførende.  	|	Elvia	|
+|	Parametere for nettap	|	Parametere for å beregne nettap i et nettområde.	|	Elhub IM	|
+|	Periodevolum (måleverdi)	|	Forbruket av energi over en lengre periode enn et tidsintervall, minimalt 1 døgn, typisk en måned	|	Elhub IM	|
+|	Periodevolum serie (måleverdi)	|	Serie med periodevolum	|	Elhub IM	|
 |	Petroleumsforskriften	|	Detaljerte bestemmelser på det området Petroleumsloven regulerer.	|	Elordboken	|
 |	Petroleumsloven	|	Loven som regulerer norsk petroleumsvirksomhet.	|	Elordboken	|
 |	PICASSO 	|	Platform for the International Coordination of Automated Frequency Restoration. EU prosjekt for internasjonalt samarbeid rundt aFRR.	|	Statnett	|
@@ -239,7 +261,9 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Sentralnettet	|	Hoveddelen av kraftledningsnettet med de høyeste spenningene (hovedsakelig over 200kV). Det inngår i et system med felles avregning av transporttjenester-sentralnettordningen. Sentralnettet består av ledninger og stasjoner som har betydning for en region, flere regioner eller hele landet. I Finland og Sverige brukes begrepet stamnett om det vi i Norge kaller sentralnettet.	|	Elordboken	|
 |	Sesong	|	Begrepet sesong benyttes i denne rapporten som tilsvarer en årstid, som sommer eller vinter, Det forventes at en sesong har en utstrekning på en eller flere hele måneder, siden fakturering av nett tjenester normalt skjer på månedsbasis. 	|	Elhub	|
 |	Sikringsskap	|	Sikringsskap er et skap innvendig i bygg eller ute som inneholder sikringer som igjen sikrer kabler mot overlast og kortslutning. I nye boliger går inntaksledning fra tilknytningsskap ute og forsyner sikringsskap plassert innvendig i bolig hvor en finner nedstrøms forbrukskurser.	|	Elvia	|
+|	Sluttbruker	|	Klasse for å identifisere sluttbrukere av nettet, og kan være både forbruker og produsent av energi.	|	Elhub IM	|
 |	Sluttbruker (også kalt Kunde)	|	En rolle som har anledning til enten å forbruke eller produsere kraft basert på en etablert nettleiekontrakt med nettilknytningstilbyder, og en kraftleveransekontrakt med en kraftleverandør	|	Elhub	|
+|	Sluttbrukeradresse	|	Spesifikasjon av sluttbrukens adresse(r). Postadresse og eventuell fakturaadresse. Spesialisering av EIM Adresse	|	Elhub IM	|
 |	SO2	|	Den vanligste av svoveloksidene. Blir tilført luften fra forbrenning av svovelholding olje og kull, i eksos fra biler og ved mange industrielle prosesser. Bidrar til sur nedbør som kan føre til fiskedød og skogsdød.	|	Elordboken	|
 |	SOA 	|	System Operation Agreement.	|	Statnett	|
 |	Solcelle(panel) 	|	Solcelle(panel) omdanner sollys til elektrisk strøm, og kan dermed benyttes som strømforsyning. Det kan være større anlegg for kraftproduksjon (kraftprodusent), eller mindre anlegg (privateid) som kunden benytter for å forsyne seg selv og sin husholdning med strøm. 	|	Elvia	|
@@ -250,12 +274,14 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Statnett SF 	|	Statnett er ansvarlig for å bygge, drifte og vedlikeholde det norske kraftsystemet. De er et statsforetak eid av staten ved Energidepartementet. Deres oppdrag er å sikre strømforsyningen gjennom drift, overvåking og beredskap døgnet rundt.	|	Statnett	|
 |	Stikkledning	|	Kabel ute i nettet fra mast, fordelingsskap eller nettstasjon og inn til tilknytningspunktet. Denne er eies og driftes av Elvia.	|	Elvia	|
 |	Strømprisen	|	Samlet pris på elektrisitet til forbruker kan grovt deles i tre: Kraftpris, nettleie og offentlige avgifter. Offentlige avgifter består av 25 prosent moms og 10,8 øre per kilowattime i elavgift. Forbrukere i fylkene Finnmark, Troms og Finnmark betaler ikke elavgift og moms på strøm.	|	Elordboken	|
+|	Subnettområde	|	Subnettområde brukes for oppsett som skal avregnes utenfor balanseavregningen, for eksempel kjøpesenter, industriparker og mikro grids. Et subnettområde er koblet til et overliggende nettavregningsområde gjennom et avregningspunkt som er inkludert i balanseavregningen.	|	Elhub IM	|
 |	SvK 	|	Svenska Kraftnät, sveriges TSO.	|	Statnett	|
 |	Systemansvar	|	Et overordnet ansvar for koordinering og drift av det samlede kraftsystemet. I Norge har Statnett systemansvar.	|	Elordboken	|
 |	Tariff	|	En tariff er et begrep som beskriver produktprising for bruk av strømnettet.  Tariffen styres av forskjellige parametere som påvirker produktets pris. 	|	Elhub	|
 |	TenneT 	|	TSO i Tyskland og Nederland; NordLink og NorNed.	|	Statnett	|
 |	Terskel	|	Terskel Begrepet terskel benyttes for å beskrive nivåer innenfor et tariffledd der prisene er ulike	|	Elhub	|
 |	Tilfeldig kraft	|	Elektrisk kraft som leveres på vilkår partene blir enige om etter hvert, og som kan avbrytes på kort varsel av begge parter.	|	Elordboken	|
+|	Tilknytningspunkt	|	Målepunkt som kobler et Subnettområde til et Avregningspunkt i overliggende Nettavregningsområde.	|	Elhub IM	|
 |	Tilknytningspunkt 	|	Punktet der kundes installasjon kobles til selve nettet og grensesnittet mellom netteier og kunde. I nye boliger går grensesnittet i klemmene på undersiden av sikringen i tilknytningsskapet. Ved luftstikkledning går grenseskillet i klemmene mellom EX-kabel og inntaksledning/stigeledning, og ved husvegg på kabelstikkledning. 	|	Elvia	|
 |	Time-of-Use prising	|	Time-of-Use prising (ToU) innebærer en høyere pris på energileddet i perioder hvor det er høy belastning på nettet.  Prisene kan differensieres i perioder på døgnet og/eller deler av året. 	|	Elhub	|
 |	Topplast	|	Maksimal last som kan forbrukes, tas ut eller produseres.	|	Elordboken	|
@@ -265,6 +291,7 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Transformator 	|	Transformator, ofte kalt trafo, er et apparat som omsetter elektrisk vekselstrøm med en viss spenning til vekselstrøm med en annen spenning. I Elvias nett brukes blant annet transformatorer til å gå fra 11/22kV høyspent og ned til 230/400V lavspent.	|	Elvia	|
 |	Tredjepart (også kalt Tjenesteleverandør)	|	En rolle som kan utføre tjenester for og på vegne av en sluttbruker	|	Elhub	|
 |	Tredjepartsadgang (TPA= Third Party Access)	|	Adgang til nettet for alle aktører på like vilkår.	|	Elordboken	|
+|	Tredjepartstilgang	|	Spesifikasjon av personer og virksomheter som har tilgang til målepunktet.	|	Elhub IM	|
 |	Trykksjakt	|	Trykksjakten fører vannet fra tunnelsystemet oppe i fjellet og ned til turbinen.	|	Elordboken	|
 |	TSO	|	Transmission System Operator. Systemansvarlig nettselskap som eier nettet.	|	Elordboken	|
 |	TSO 	|	Transmission System Operator. Strømoperatør med ansvar for strømflyt i et område, som oftest 1 per land.	|	Statnett	|
@@ -274,10 +301,12 @@ Ordlisten tar for seg ord, begreper og forkortelser brukt i strøm- og energibra
 |	Tørrgass	|	Naturgass som i alle hovedsak består av metan (inntil 90 %)	|	Elordboken	|
 |	Tørrår	|	År med mindre nedbør enn normalt.	|	Elordboken	|
 |	Umålte anlegg 	|	Et umålt anlegg er et "anlegg" som det ikke er tilknyttet en egen strømmåler (koblet direkte på strømnettet), og teller derfor ikke forbruk. For disse målerne blir det av installatør oppgitt et årlig forbruk, som fakturaen blir basert på. Eksempler på umålte anlegg kan være privat veilys eller en parkeringsautomat. 	|	Elvia	|
+|	Utvekslingspunkt	|	Målepunkt som måler energiutveksling mellom nettavregningsområder.	|	Elhub IM	|
 |	Vannbåren varme 	|	Vannbåren varme er varmtvann som brukes til oppvarming istedenfor strøm. Eksempler på dette kan være vannvarmekabler i gulvet og vannvarmeovner.  	|	Elvia	|
 |	Vannkraft	|	Elektrisk produksjon ved hjelp av vann.	|	Elordboken	|
 |	Vannkraftverk	|	Kraftverket omdanner vannets potensielle energi til elektrisk energi, strøm. Består av flere én eller flere kraftstasjoner, magasiner og tunnelsystemer.	|	Elordboken	|
 |	Variabel priskontrakt	|	Med denne kontrakten varierer prisen som forbrukeren betaler, men kraftselskapet må varsle prisendringen to ukers tid før den finner sted. Se Kraftpriser på KraftNytt.no hvor vi hver mandag publiserer oversikter over kraftpriser for vanlige forbrukere og bedrifter.	|	Elordboken	|
+|	Virtuelt nettområde	|	Virtuelt nettområde brukes for å samle målepunkter som ikke er geografisk samlokalisert og som ikke er inkluderte i balanseavregningen. Det kan for eksempel brukes for å samle målepunkter som har produksjon som skal rapporteres til Norsk register for elsertifikater (NECS) men som ikke skal være inkludert i balanseavregningen.	|	Elhub IM	|
 |	Volt	|	Spenningen mellom to punkter i en strømkrets.1 kv (kilovolt) = 100 volt.Vanlig spenning i boligens elektriske anlegg er 230 volt.	|	Elordboken	|
 |	Volt (V)	|	Volt er måleenheten spenning og potensialet til elektrisk spenning. De fleste forbrukskurser i Norge benytter en spenning på 230V.	|	Elvia	|
 |	Våtgass	|	Forekommer ikke naturlig. Er utskilt fra rikgass og består av etan, propan og butan. Omtales som NGL (Natural Gas Liquid).	|	Elordboken	|
